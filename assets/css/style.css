@@ -229,19 +229,19 @@ footer {
 
     /*--------------Three Reasons -------*/
 
-    .three-reasons-icon {
+.three-reasons-icon {
         font-size: 26px;
         color: #e67e22
     }
 
-    .three-reasons-heading {
+.three-reasons-heading {
         margin-bottom: 15px;
     }
 
 
-    /*--------------Personal Info -------*/
+/*--------------Personal Info -------*/
 
-    .personal-info-item {
+.personal-info-item {
         margin-bottom: 20px;
         display: block;
         clear: both;
@@ -373,4 +373,3 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 50%;
 }   
-}
